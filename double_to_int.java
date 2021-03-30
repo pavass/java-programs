@@ -2,6 +2,6 @@ class DoubleToInt {
 public static void main( String args[] ) {
 double DoubleValue = 3.6987;
 int IntValue = (int) Math. round(DoubleValue);
-System. out. println(IntValue);
+System.out.println(IntValue);
 }
 }
